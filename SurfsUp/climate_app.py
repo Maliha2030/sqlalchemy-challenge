@@ -3,7 +3,6 @@
 ##   0. Imports                                                        ##
 ##                                                                     ##
 #########################################################################
-# 0.1 Import Flask, jsonify ,SQLAlchemy
 
 import numpy as np
 import datetime as dt
