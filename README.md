@@ -77,4 +77,4 @@ For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the 
 
 
 
-#refrence for In64 in Notebook  : https://stackoverflow.com/questions/58785200/how-do-i-determine-one-year-prior-to-a-given-date-2017-08-23-with-python-datetim
+#reference for In64 in Notebook  : https://stackoverflow.com/questions/58785200/how-do-i-determine-one-year-prior-to-a-given-date-2017-08-23-with-python-datetim
